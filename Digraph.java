@@ -1,7 +1,6 @@
 import java.util.*;
 /**
- * CPSC 6109 
- * Project 3 Shortest Paths 
+ * Shortest Paths 
  *
  * This class represents a Digraph and contains methods to calculate shortest
  * paths from a starting vertex. It also has a method to print the results 
